@@ -6,3 +6,7 @@ tags:
   - post
 ---
 Testing, testing
+
+
+
+![Floors](/static/img/floor.jpg "Floors")
