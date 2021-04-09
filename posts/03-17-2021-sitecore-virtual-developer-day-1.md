@@ -1,9 +1,9 @@
 ---
 title: 03-17-2021 Sitecore Virtual Developer Day
-date: 2021-04-09T00:38:56.831Z
+date: 2021-04-09T00:43:33.393Z
 summary: Sitecore Virtual Developer Day was fun.
 tags:
-  - post
+  - sitecore
 ---
 ## Road to JSS on Jamstack & Containers
 
