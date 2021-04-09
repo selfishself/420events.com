@@ -1,7 +1,7 @@
 ---
 layout: layouts/blog.njk
 title: Blog
-date: 2017-01-01
+date: 2021-04-09T00:38:05.200Z
 permalink: /blog/index.html
 navtitle: Blog
 tags:
