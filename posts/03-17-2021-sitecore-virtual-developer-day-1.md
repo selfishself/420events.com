@@ -1,6 +1,6 @@
 ---
 title: 03-17-2021 Sitecore Virtual Developer Day
-date: 2021-04-09T00:35:15.585Z
+date: 2021-04-09T00:38:56.831Z
 summary: Sitecore Virtual Developer Day was fun.
 tags:
   - post
